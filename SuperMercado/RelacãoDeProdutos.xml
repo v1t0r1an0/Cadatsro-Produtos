@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Produtos>
+    <Produto id="1">
+        <Marca>
+            <NomeMarca>asdasdas</NomeMarca>
+            <Preco>54454.0</Preco>
+        </Marca>
+    </Produto>
+    <Nome>bANANA</Nome>
+    <Categoria>asasdasd</Categoria>
+    <Produto id="1">
+        <Marca>
+            <NomeMarca>scscscsc</NomeMarca>
+            <Preco>5454548.0</Preco>
+        </Marca>
+    </Produto>
+    <Nome>maca</Nome>
+    <Categoria/>
+</Produtos>
